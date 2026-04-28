@@ -1,5 +1,5 @@
 // C++ code
-//
+//Arduino -2 
 char systr[20];
 void setup()
 {
